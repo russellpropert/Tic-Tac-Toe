@@ -10,8 +10,9 @@ body {
   width: 600px;
   height: 600px;
   margin: 0 auto;
-  background-color: #34495e;
-  border: 6px solid #0b0d0f;
+  padding: 5px;
+  background-color: #C8D2E3;
+  border: 10px solid #0b0d0f;
   border-radius: 10px;
   display: grid;
   grid-template-rows: repeat(4, 1fr);
@@ -19,9 +20,8 @@ body {
 }
 
 button {
-  background-color: #0c80f3;
-  border: 6px solid #0ff166;
-  border-radius: 10px;
+  background-color: #8CA4E8;
+  border: 5px solid #0E308F;
   font-size: 5em;
 }
 
