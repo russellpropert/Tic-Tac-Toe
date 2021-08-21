@@ -7,7 +7,11 @@ Simple tic-tak-toe game created with React. Click on a square to mark your tile.
 This exercise can be run by forking the repository (button in upper left) and cloning it to your machine. If you don't have npm installed, you can get it by installing node.js (https://nodejs.org/en/download/). Run 'npx http-server' from the command line to run a temprarly http-server or install http-server as a global command by running 'npm install --global http-server' (https://www.npmjs.com/package/http-server). Run 'http-server -c-1' to prevent the browser from caching if you want to make changes. You can then access the page by going to localhost:8080 in your web browser.
 
 ## Future Improvements
-I’d like to add a line across the winning squares. Depending on which win array element passed the win condition, another set of variables could be set in a switch statement to manipulate the style of the line.
+A reset button.
+
+Adding a message for a draw.
+
+Adding a line across the winning squares. Depending on which win array element passed the win condition, another set of variables could be set in a switch statement to manipulate the style of the line.
 
 
 ## MIT License
