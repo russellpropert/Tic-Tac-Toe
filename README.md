@@ -4,7 +4,7 @@
 A tic tac toe game created with React. Click on a square to mark your tile.
 
 ## How To Run
-Fork the repository and clone it to your machine. If you don't have npm installed, you can get it by installing [node.js](https://nodejs.org/en/download/). Run 'npx http-server' from the command line to run a temporary http-server or install [http-server](https://www.npmjs.com/package/http-server) as a global command by running 'npm install --global http-server'. Run 'http-server' to start a server. Run 'http-server -c-1' to prevent the browser from caching if you want to make changes. You can then access the page by going to localhost:8080 in your web browser.
+Fork the repository and clone it to your machine. If you don't have npm installed, you can get it by installing [node.js](https://nodejs.org/en/download/). Run 'npx http-server' from the command line to run a temporary [http-server](https://www.npmjs.com/package/http-server) or install http-server as a global command by running 'npm install --global http-server'. Run 'http-server' to start a server. Run 'http-server -c-1' to prevent the browser from caching if you want to make changes. You can then access the page by going to localhost:8080 in your web browser.
 
 ## Future Improvements
 A reset button.
